@@ -11,13 +11,11 @@ A simple and elegant **Timer App** built using **React Native** and **Expo**. Th
 
 ## 🖼️ Screenshots
 
-<!-- Uncomment and replace with your screenshots -->
-<!--
 <p float="left">
   <img src="screenshots/home.png" width="250"/>
   <img src="screenshots/timer.png" width="250"/>
 </p>
--->
+
 
 ## 🚀 Getting Started
 
